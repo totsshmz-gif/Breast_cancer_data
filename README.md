@@ -36,6 +36,7 @@ Un objet `StandardScaler` de **Scikit-Learn** est utilisé pour normaliser les d
 
 ## 📂 Structure du Projet
 ```text
-├── model.keras          # Modèle Keras entraîné (architecture et poids)
-├── scaler.pkl           # Objet StandardScaler sauvegardé (joblib)
-└── README.md            # Documentation du projet
+├── Breast_cancer_data.ipynb
+├── breast_cancer_model.keras          # Modèle Keras entraîné (architecture et poids)
+├── scaler.joblib                      # Objet StandardScaler sauvegardé (joblib)
+└── README.md                          # Documentation du projet
