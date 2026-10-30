@@ -2,6 +2,7 @@
 # 🩺 Prédiction du Cancer du Sein (Breast Cancer Wisconsin Diagnostic)
 
 Ce projet implémente un modèle de Deep Learning basé sur un réseau de neurones artificiels (ANN) pour classifier les tumeurs du sein en **bénignes** ou **malignes** à partir du célèbre jeu de données **Breast Cancer Wisconsin (Diagnostic)**.
+<img width="1836" height="1010" alt="image" src="https://github.com/user-attachments/assets/17a7ccfb-f6be-4132-b84c-b21f1aa4ec55" />
 
 ---
 
